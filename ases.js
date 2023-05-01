@@ -28,7 +28,7 @@ const books = [
      function getAvailableBooks(array){
         let s=[];
         let p = []
-        for(let i =0;i>=books.title;i++)
+        for(let i =0;i<length.title;i++)
         if(books[i]<=array){
             p.push(books.tiles)
         }
